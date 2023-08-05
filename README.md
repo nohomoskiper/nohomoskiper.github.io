@@ -1,2 +1,2 @@
-# NO-HOMO-Skiper
-- This Website is for Skiping No Homo!
+# NO-HOMO-Skipper
+- This Website is for Skipping No Homo!
